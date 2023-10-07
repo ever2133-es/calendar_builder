@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Hold failed upload metrics and upload with next upload metrics (#8513)
